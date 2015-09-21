@@ -1,0 +1,26 @@
+{
+  "name": "html5",
+  "version": "0.0.1",
+  "description": "my html samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchvramesh/HTML5.git"
+  },
+  "keywords": [
+    "html",
+    "samples"
+  ],
+  "author": "ramesh <pchvramesh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchvramesh/HTML5/issues"
+  },
+  "homepage": "https://github.com/pchvramesh/HTML5#readme",
+  "dependencies": {
+    "bower": "^1.5.2"
+  }
+}
